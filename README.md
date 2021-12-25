@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RonitMittal
 - 👀 I’m interested in girls😅
-- 🌱 I’m currently learning c++
-- 📫 How to reach me 
+- 🌱 I’m currently learning C/C++,Python,HTML/CSS/JS
 
 <!---
 RonitMittal/RonitMittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
